@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am a developer with around 8 years of experience combined in full stack and devops. 
 
 <!--
 **SleepyDamien/SleepyDamien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
