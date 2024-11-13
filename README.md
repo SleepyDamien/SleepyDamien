@@ -5,6 +5,9 @@ I am a developer with around 8 years of experience combined in full stack and de
 Working on some small sample projects, you can demo them here:
 https://damien-sandbox.netlify.app/
 
+🌀 Currently in love with Next.JS and building react apps!
+
+📩 Open to work - message me on linkedin! 
 
 <!--
 **SleepyDamien/SleepyDamien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
