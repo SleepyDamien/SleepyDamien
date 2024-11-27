@@ -7,7 +7,7 @@ https://damien-sandbox.netlify.app/
 
 🌀 Currently in love with Next.JS and building react apps!
 
-📩 Open to work - message me on linkedin! 
+📩 Interested in working with me? Message me on linkedin! 
 
 <!--
 **SleepyDamien/SleepyDamien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
