@@ -3,7 +3,7 @@
 I am a developer with around 8 years of experience combined in full stack and devops, with a focus on Sitecore, .NET, and C#. 
 
 Working on some small sample projects, you can demo them here:
-https://damien-sandbox.netlify.app/
+https://1024kb.dev/
 
 🌀 Currently in love with Next.JS and building react apps!
 
