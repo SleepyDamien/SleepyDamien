@@ -5,7 +5,8 @@ I am a developer with around 8 years of experience combined in full stack and de
 Working on some small sample projects, you can demo them here:
 https://1024kb.dev/
 
-🌀 Currently in love with Next.JS and building react apps!
+I also have a blog:
+https://blog.1024kb.dev
 
 📩 Interested in working with me? Message me on linkedin! 
 
